@@ -30,7 +30,7 @@ I build full-stack applications using **React, Node.js, Express, and MongoDB**, 
 A full-stack + GenAI platform where users list skills they have and skills they want to learn,
 and get matched with others.
 
-👉 Repo: *(I will add link here soon)*
+👉 Repo: https://github.com/UDAYKIRAN1607/skillswap
 
 ---
 
