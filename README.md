@@ -47,8 +47,8 @@ I build production-ready MERN stack applications with real GenAI integrations �
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
 | 1 | **SkillSwap** | MERN + Groq AI | ✅ Live |
-| 2 | **AI Resume + Job Match Analyzer** | Python + FastAPI + LangChain + Chroma | 📋 Planned |
-| 3 | **AI Developer Assistant Agent** | Python + LangGraph + LLM | 📋 Planned |
+| 2 | **AI Resume + Job Match Analyzer** | Python + FastAPI + LangChain + Chroma | ✅ Live |
+| 3 | **AI Developer Assistant Agent** | Python + LangGraph + LLM | 📋 In Progress |
 
 ---
 
